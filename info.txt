@@ -1,0 +1,10 @@
+* Flutter Firebase Cloud Firestore Database CRUD (Hindi) Geeky Shows
+  https://www.youtube.com/watch?v=bnZUyHNaxfU&t=4165s
+
+  1. files
+     main.dart
+     pages -> add_student_page.dart (add a student)
+              home_page.dart (list of students show)
+              list_student_page.dart (list of sudents make)
+              update_student_page.dart ( update the students)
+  

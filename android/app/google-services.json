@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079044353505",
+    "project_id": "fir-crud-geeky-shows",
+    "storage_bucket": "fir-crud-geeky-shows.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079044353505:android:b3a0225daa5f810debf6a0",
+        "android_client_info": {
+          "package_name": "com.example.firestrore_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPtRg9ZeTtmbaSozhSZmVCnZrc3fUI1W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
